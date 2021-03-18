@@ -1,0 +1,22 @@
+img {
+  height: 100px;
+}
+#name {
+  color: blue;
+}
+
+#result {
+  color: green;
+}
+.btn a {
+  background-color: #FFA07A;
+ color: #ffffff;
+ font-size: 15px; 
+ width: 80px;
+ text-align: center;
+ margin-top: 15px;
+ display: block;
+ border-radius: 345px;
+ border: 3px solid #FFA07A;
+ text-decoration: none;
+}
