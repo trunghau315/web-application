@@ -1,2 +1,2 @@
-# wep-applicationp
+# wep-application
 PCのブラウザで実行できました。
